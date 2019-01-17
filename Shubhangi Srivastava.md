@@ -19,13 +19,13 @@ Year:2014<br />
 Percentage- 95.5%<br />
 Institute:City Montessori School , Lucknow <br />
 Board:ICSE<br />
-### HIGHSCHOOL<br />
+### Highschool<br />
 Year:2012<br />
 Percentage:92.4%<br />
 Institute:City Montessori School , Lucknow <br />
 Board:ISC<br />
 
-### TRAINING<br />
+### Training<br />
 Organization:-Trainedge(Microsoft Partner Institute),Lucknow<br />
 Training:- Core Java<br />
 Duration: - 4 weeks<br />
