@@ -40,12 +40,14 @@ Duration: -1.5 months.
 ### Project in data analysis
 Project Name: E-commerce real time Data analyzer
 Description:- A tool in python which provides real time data collection on personal prefernce on a dynamic method and produces personalized analysis according to the input of the user.
+Duration:1 month
 
 ### Major Project(I)
 Project Name:- Network Packet Sniffer
 Mentor Name:-Mr. Arjun Arora
 Description:- A packet sniffer based on network data flow analysis which helps in identification, monitoring
 and diagnosing to solve network anamolies so that corporate communication assets are safe with the help of java language features along with the help of network support libraries.
+Duration:3 months
 
 ### Minor Project (II)
 Project Name: - Desktop Application for managing the Food Court Services.
