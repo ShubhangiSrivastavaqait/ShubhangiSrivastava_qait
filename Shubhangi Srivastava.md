@@ -64,7 +64,7 @@ Duration: -3 months<br />
 Operating Systems: Windows, Linux<br />
 Software Packages: Star UML, Pycharm, Eclipse<br />
 Programming Languages(Main): Java<br />
-Other Languages and technologies: C, Python, Mysql<br />
+Other Languages and technologies:Python, Mysql<br />
 
 
 # Personal Details:<br />
